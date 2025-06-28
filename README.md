@@ -4,6 +4,9 @@ Here's my explanation on how the limits orders are stored <https://pvnotpv.githu
 
 You need to set rust to 1.70 for it to work.
 
+![tree](https://github.com/user-attachments/assets/4eb691c8-ca1b-4ac2-a9cd-2ad727c4e2f7)
+
+
 ```bash
 rustup override set 1.70
 rustup default 1.70
